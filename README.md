@@ -1,6 +1,8 @@
 # About Me
 Name: Ian Davis
+
 Favorite Color: Blue
+
 Favorite Recipe: Pepperoni Rolls
 
 # Ingredients:
